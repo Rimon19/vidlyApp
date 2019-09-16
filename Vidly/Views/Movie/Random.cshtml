@@ -1,0 +1,47 @@
+﻿@model  Vidly.Models.ViewModel.MovieFormViewModel
+@{
+    ViewBag.Title = "Random";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@*@{
+    var ClassName = Model.Customers.Count > 0 ? "popular" : null;
+}
+
+<h2 class="@ClassName">@Model.Movie.MovieName</h2>
+@if (Model.Customers.Count == 0)
+{
+    <text>NO one has render the movie</text>
+}
+else
+{
+    <ul>
+        @foreach (var customer in Model.Customers)
+{
+                        <li>@customer.CustomerName</li>
+
+}
+    </ul>
+    
+}*@
+
+<h1>Movie</h1>
+<p>
+    @Html.ActionLink("New Movie", "New", "Movie", null, new { @class = "btn btn-primary" })
+
+</p>
+<table class ="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <td>Movie</td>
+            <td>Genre</td>
+        </tr>
+    </thead>
+    @foreach (var movie in Model.Movies)
+    {
+        <tr>
+            <td>@Html.ActionLink(movie.MovieName, "Edit", new { id = movie.Id }, null)</td>
+            <td>@movie.Genre.Name</td>
+        </tr>
+    }
+</table>
+

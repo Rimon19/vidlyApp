@@ -1,0 +1,33 @@
+﻿@model Vidly.Models.ViewModel.CustomerViewModel
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+@using (Html.BeginForm())
+{
+    <table class="table table-bordered table-hover">
+        <thead>
+        <tr>
+            <td>Customer Name</td>
+            <td>Membership Type</td>
+
+        </tr>
+           
+        </thead>
+        
+        @foreach (var customer in Model.Customers)
+        {
+            <tr>
+                <td>@Html.ActionLink(customer.CustomerName, "Edit", new {id = @customer.Id})</td>
+                <td>@customer.MemberShipType.Name</td>
+            </tr>
+            
+                
+            
+        }
+    </table>
+
+}
+    

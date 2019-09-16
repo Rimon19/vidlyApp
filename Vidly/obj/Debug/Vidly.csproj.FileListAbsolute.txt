@@ -1,0 +1,155 @@
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\Vidly.dll.config
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\Vidly.dll
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\Vidly.pdb
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\Antlr3.Runtime.dll
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\EntityFramework.dll
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\EntityFramework.SqlServer.dll
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\Microsoft.Owin.dll
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\Microsoft.Owin.Security.dll
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.dll
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\Microsoft.Web.Infrastructure.dll
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\Newtonsoft.Json.dll
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\Owin.dll
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\System.Net.Http.Formatting.dll
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\System.Web.Helpers.dll
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\System.Web.Http.dll
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\System.Web.Http.WebHost.dll
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\System.Web.Mvc.dll
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\System.Web.Optimization.dll
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\System.Web.Razor.dll
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\System.Web.WebPages.Deployment.dll
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\System.Web.WebPages.dll
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\System.Web.WebPages.Razor.dll
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\WebGrease.dll
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\System.Net.Http.Formatting.xml
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\System.Web.Http.xml
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\System.Web.Http.WebHost.xml
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\System.Web.Helpers.xml
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\System.Web.Mvc.xml
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\System.Web.Optimization.xml
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\System.Web.Razor.xml
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\System.Web.WebPages.xml
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\System.Web.WebPages.Deployment.xml
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\System.Web.WebPages.Razor.xml
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\Newtonsoft.Json.xml
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\Antlr3.Runtime.pdb
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\EntityFramework.xml
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\EntityFramework.SqlServer.xml
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\Microsoft.Owin.xml
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\Microsoft.Owin.Security.xml
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.xml
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\obj\Debug\Vidly.Migrations.initialModel.resources
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\obj\Debug\Vidly.Migrations.initialModel1.resources
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\obj\Debug\Vidly.Migrations.addMemberShipType.resources
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\obj\Debug\Vidly.Migrations.addMemberShipType1.resources
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\obj\Debug\Vidly.Migrations.populatMemberShipType.resources
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\obj\Debug\Vidly.Migrations.addDataAnotationTocustomer.resources
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\obj\Debug\Vidly.Migrations.SetNameOfMemberShipType.resources
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\obj\Debug\Vidly.Migrations.SetNameToMemberShipType.resources
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\obj\Debug\Vidly.Migrations.setValueToMemberShiptypeInNameProperty.resources
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\obj\Debug\Vidly.Migrations.addBirthDateproperties.resources
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\obj\Debug\Vidly.Migrations.addMovieProperties.resources
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\obj\Debug\Vidly.Migrations.Genres.resources
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\obj\Debug\Vidly.Migrations.addValidationField.resources
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.Cache
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\obj\Debug\Vidly.dll
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\obj\Debug\Vidly.pdb
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\AutoMapper.dll
+E:\UDEMY MVC COMPLETE\Vidly\Vidly\bin\AutoMapper.xml
+D:\tutorial\Vidly\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
+D:\tutorial\Vidly\Vidly\obj\Debug\Vidly.Migrations.initialModel.resources
+D:\tutorial\Vidly\Vidly\obj\Debug\Vidly.Migrations.initialModel1.resources
+D:\tutorial\Vidly\Vidly\obj\Debug\Vidly.Migrations.addMemberShipType.resources
+D:\tutorial\Vidly\Vidly\obj\Debug\Vidly.Migrations.addMemberShipType1.resources
+D:\tutorial\Vidly\Vidly\obj\Debug\Vidly.Migrations.populatMemberShipType.resources
+D:\tutorial\Vidly\Vidly\obj\Debug\Vidly.Migrations.addDataAnotationTocustomer.resources
+D:\tutorial\Vidly\Vidly\obj\Debug\Vidly.Migrations.SetNameOfMemberShipType.resources
+D:\tutorial\Vidly\Vidly\obj\Debug\Vidly.Migrations.SetNameToMemberShipType.resources
+D:\tutorial\Vidly\Vidly\obj\Debug\Vidly.Migrations.setValueToMemberShiptypeInNameProperty.resources
+D:\tutorial\Vidly\Vidly\obj\Debug\Vidly.Migrations.addBirthDateproperties.resources
+D:\tutorial\Vidly\Vidly\obj\Debug\Vidly.Migrations.addMovieProperties.resources
+D:\tutorial\Vidly\Vidly\obj\Debug\Vidly.Migrations.Genres.resources
+D:\tutorial\Vidly\Vidly\obj\Debug\Vidly.Migrations.addValidationField.resources
+D:\tutorial\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+D:\tutorial\Vidly\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
+D:\tutorial\Vidly\Vidly\obj\Debug\Vidly.dll
+D:\tutorial\Vidly\Vidly\obj\Debug\Vidly.pdb
+D:\tutorial\Vidly\Vidly\bin\Vidly.dll.config
+D:\tutorial\Vidly\Vidly\bin\Vidly.dll
+D:\tutorial\Vidly\Vidly\bin\Vidly.pdb
+D:\tutorial\Vidly\Vidly\bin\Antlr3.Runtime.dll
+D:\tutorial\Vidly\Vidly\bin\AutoMapper.dll
+D:\tutorial\Vidly\Vidly\bin\EntityFramework.dll
+D:\tutorial\Vidly\Vidly\bin\EntityFramework.SqlServer.dll
+D:\tutorial\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+D:\tutorial\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\tutorial\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\tutorial\Vidly\Vidly\bin\Microsoft.Owin.dll
+D:\tutorial\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\tutorial\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+D:\tutorial\Vidly\Vidly\bin\Microsoft.Owin.Security.dll
+D:\tutorial\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+D:\tutorial\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.dll
+D:\tutorial\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\tutorial\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+D:\tutorial\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+D:\tutorial\Vidly\Vidly\bin\Microsoft.Web.Infrastructure.dll
+D:\tutorial\Vidly\Vidly\bin\Newtonsoft.Json.dll
+D:\tutorial\Vidly\Vidly\bin\Owin.dll
+D:\tutorial\Vidly\Vidly\bin\System.Net.Http.Formatting.dll
+D:\tutorial\Vidly\Vidly\bin\System.Web.Helpers.dll
+D:\tutorial\Vidly\Vidly\bin\System.Web.Http.dll
+D:\tutorial\Vidly\Vidly\bin\System.Web.Http.WebHost.dll
+D:\tutorial\Vidly\Vidly\bin\System.Web.Mvc.dll
+D:\tutorial\Vidly\Vidly\bin\System.Web.Optimization.dll
+D:\tutorial\Vidly\Vidly\bin\System.Web.Razor.dll
+D:\tutorial\Vidly\Vidly\bin\System.Web.WebPages.Deployment.dll
+D:\tutorial\Vidly\Vidly\bin\System.Web.WebPages.dll
+D:\tutorial\Vidly\Vidly\bin\System.Web.WebPages.Razor.dll
+D:\tutorial\Vidly\Vidly\bin\AutoMapper.xml
+D:\tutorial\Vidly\Vidly\bin\System.Net.Http.Formatting.xml
+D:\tutorial\Vidly\Vidly\bin\System.Web.Http.xml
+D:\tutorial\Vidly\Vidly\bin\System.Web.Http.WebHost.xml
+D:\tutorial\Vidly\Vidly\bin\System.Web.Helpers.xml
+D:\tutorial\Vidly\Vidly\bin\System.Web.Mvc.xml
+D:\tutorial\Vidly\Vidly\bin\System.Web.Optimization.xml
+D:\tutorial\Vidly\Vidly\bin\System.Web.Razor.xml
+D:\tutorial\Vidly\Vidly\bin\System.Web.WebPages.xml
+D:\tutorial\Vidly\Vidly\bin\System.Web.WebPages.Deployment.xml
+D:\tutorial\Vidly\Vidly\bin\System.Web.WebPages.Razor.xml
+D:\tutorial\Vidly\Vidly\bin\Newtonsoft.Json.xml
+D:\tutorial\Vidly\Vidly\bin\Antlr3.Runtime.pdb
+D:\tutorial\Vidly\Vidly\bin\EntityFramework.xml
+D:\tutorial\Vidly\Vidly\bin\EntityFramework.SqlServer.xml
+D:\tutorial\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+D:\tutorial\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\tutorial\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\tutorial\Vidly\Vidly\bin\Microsoft.Owin.xml
+D:\tutorial\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\tutorial\Vidly\Vidly\bin\Microsoft.Owin.Security.xml
+D:\tutorial\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+D:\tutorial\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+D:\tutorial\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+D:\tutorial\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.xml
+D:\tutorial\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+D:\tutorial\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\tutorial\Vidly\Vidly\obj\Debug\Vidly.csproj.CopyComplete
